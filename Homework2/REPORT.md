@@ -66,8 +66,8 @@ On another terminal:
 sudo ettercap -i eth0 -TqM ARP:REMOTE /192.168.1.11// /192.168.1.13
 ``` 
 
-Now, the attacker is secretly in the middle of all comunications from C2 to Router
+Now, the attacker is secretly in the middle of all communications  from C2 to Router
 
 ### Note:  
 
-Some browsers or web applications have protection against this attack. TO demonstrate the attack I have user [https://ubuntu.com/](https://ubuntu.com/).  
+Some browsers or web applications have protection against this attack. To demonstrate the attack I have user [https://ubuntu.com/](https://ubuntu.com/).  
